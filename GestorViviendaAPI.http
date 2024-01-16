@@ -1,0 +1,6 @@
+@GestorViviendaAPI_HostAddress = http://localhost:5217
+
+GET {{GestorViviendaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

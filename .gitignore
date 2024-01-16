@@ -1,0 +1,6 @@
+.config
+Migrations
+obj
+.env
+appsettings.json
+bin
